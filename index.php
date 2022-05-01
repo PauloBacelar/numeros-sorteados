@@ -34,11 +34,11 @@ function getNumerosUnicos() {
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
-    <title>Função primos</title>
+    <title>Números sorteados</title>
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
-    <p class="seculo" name="seculo">
+    <p>
     <?php
       $numerosUnicos = getNumerosUnicos();
 
